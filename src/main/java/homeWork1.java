@@ -2,7 +2,7 @@
 import java.util.Arrays;
 
 
-public class printThreeWords {
+public class homeWork1 {
 
 
     public static void main (String [] args){
