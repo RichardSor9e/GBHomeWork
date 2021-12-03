@@ -2,7 +2,7 @@
 import java.util.Arrays;
 
 
-public class printThreeWords {
+public class homeWork1 {
 
 
     public static void main (String [] args){
@@ -18,8 +18,8 @@ public class printThreeWords {
         System.out.println(fruit1 + "\n" + fruit2 + "\n" + fruit3);
     }
     public static void checkSumSign () {
-        int a = -10;
-        int b = 5;
+        int a = -17;
+        int b = 7;
         if ((a + b) >= 0) {
             System.out.println("Сумма положительная");
         } else System.out.println("Сумма отрицательная");
